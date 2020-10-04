@@ -158,7 +158,7 @@ git push origin exercise-solutions
 
 ## Setup
 
-I believe you have the motivation and a strong desire to be a developer, a computer and Internet.In addition to that basic to intermidate lelev HTML, CSS and JS. If you have those, then you have everything to get started.
+I believe you have the motivation and a strong desire to be a developer, a computer and Internet. In addition to that basic to intermidate level HTML, CSS and JS. If you have those, then you have everything to get started.
 
 ### Install Node.js
 
